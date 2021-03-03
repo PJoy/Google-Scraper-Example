@@ -12,6 +12,6 @@ After activation, the extension scapes the results of each query, and sends them
 * Run `node index.js`
 
 ## 3) Test the app
-* Got to `google.com`
+* Go to `google.com`
 * Search some terms
 * The results should be logged by the Node server in the console
