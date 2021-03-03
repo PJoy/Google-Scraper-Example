@@ -1,4 +1,4 @@
-#Google scraper chrome extension example
+# Google scraper chrome extension example
 
 After activation, the extension scapes the results of each query, and sends them to the Node.js server API.
 
